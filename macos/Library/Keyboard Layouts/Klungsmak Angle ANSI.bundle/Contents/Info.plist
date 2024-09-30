@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.klungsmakangleansi</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>Klungsmak Angle ANSI</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Klungsmak Angle ANSI</key>
@@ -15,7 +15,7 @@
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..klungsmakangleansi</string>
+		<string>org.sil.ukelele.keyboardlayout.klungsmakangleansi.klungsmakangleansi</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
