@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.klungsmakangleansi</string>
 	<key>CFBundleName</key>
-	<string>Klungsmak Angle ANSI</string>
+	<string>Klungsmak ANSI</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Klungsmak ANSI</key>
@@ -16,17 +16,6 @@
 		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.klungsmakangleansi.klungsmakansi</string>
-		<key>TISIntendedLanguage</key>
-		<string>en</string>
-	</dict>
-	<key>KLInfo_Klungsmak Angle ANSI</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISIconIsTemplate</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.klungsmakangleansi.klungsmakangleansi</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
